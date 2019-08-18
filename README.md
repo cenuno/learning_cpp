@@ -2,7 +2,7 @@
 
 This repository contains notes from the 8<sup>th</sup> edition of ["Sams Teach Yourself C++ in One Hour a Day"](https://www.amazon.com/One-Hour-Sams-Teach-Yourself/dp/0789757745/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=PSRAR28MSECY46E8PKJ9), written by Siddhartha Rao.
 
-All source code directly comes from the book and all credit goes to Siddhartha for putting together a wonderful resource for developers curious abapp the C++ language.
+All source code directly comes from the book and all credit goes to Siddhartha for putting together a wonderful resource for developers curious about the C++ programming language.
 
 ## Notes on Programming, Building and Executing C++ Applications
 
