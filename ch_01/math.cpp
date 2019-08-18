@@ -1,4 +1,4 @@
-/// Math program that subtracts, multiples, and adds two numbers and prints the results
+// Math program that subtracts, multiples, and adds two numbers and prints the results
 
 #include <iostream>
 
