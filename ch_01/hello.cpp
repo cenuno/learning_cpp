@@ -1,4 +1,4 @@
-/// Hello World Program (i.e. my first C++ program ever)
+// Hello World Program (i.e. my first C++ program ever)
 
 #include <iostream>
 

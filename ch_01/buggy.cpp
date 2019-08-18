@@ -1,4 +1,4 @@
-/// First debugging program
+// First debugging program
 
 #include <iostream>
 
